@@ -43,7 +43,7 @@
   + ###### Legacy프로젝트 포함
   + ###### 여러가지 형태 및 언어로 진행
   
-* _NuStar Project_
+* _NuStar Project(Saas Application)_
   
   + ###### Modern Microservices Architecture
     - ###### GoLang을 활용한 마이크로서비스 구축(REST API)
@@ -52,10 +52,15 @@
     - ###### 프론트는 리액트로 구축
     - ###### 컨테이너 애플리케이션 배포는 이식&재현이 가능한 방식 Docker를 활용 쿠버네티스 오케스트레이션 엔진 사용
     - ###### AWS SDK / EC2 AWS의 서버 인스턴스 구성 및 AWS API 활용 AWS와 상호연동할 수 있는 Go Application 구현
-    - ###### S3, SQS, API Gateway, DynamoDB 이론설명
+    - ###### S3, SQS, API Gateway, ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white) 활용
     - ###### ![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?logo=travis&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?logo=gitlab&logoColor=white) CD(Continuous Delivery) 도구를 사용해 파이프라인 구현 후 배포 결과물로 Docker Image 사용 후 쿠버네티스 클러스터로 배포 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?logo=rabbitmq&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?logo=apachekafka)와 결합한다.
-    - ###### Microservices Architecture Microservice architecture is monitored using a ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=Prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?logo=grafana&logoColor=white)
-
+    - ###### Microservices Architecture is monitored using a ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=Prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?logo=grafana&logoColor=white)
+  
+  + ###### 설계시 고려해야 할 점
+    - ###### vertical scaling(scale out) 
+    - ###### Statelessness(비상태 기반)
+    - ###### scale out을 위한 쉬운 배포 및 회복성
+    
 
     
     
