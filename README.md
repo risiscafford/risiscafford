@@ -1,35 +1,39 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=100&section=header&text=admin@risiscafford.co.kr&fontSize=40)
 
-<div align="center">
-    ## **_Github make all repository private_**
-</div>
 
+## **_Github make all repository private_**
 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=risiscafford&show_icons=true&theme=radical&count_private=true)
 
 
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=4FC08D"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=339933"/>
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=Thymeleaf&logoColor=005F0F"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=Spring&logoColor=6DB33F"/>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=3178C6"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=Spring&logoColor=6DB33F"/>
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=0769AD"/> <img src="https://img.shields.io/badge/Javascript-414141?style=flat&logo=Javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/SpringLegacy-6DB33F?style=flat&logo=Spring&logoColor=6DB33F"/> 
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=3178C6"/> <img src="https://img.shields.io/badge/GoLang-skyblue?style=flat&logo=Go&logoColor=00ADD8"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=326CE5"/> <img src="https://img.shields.io/badge/CloudPlatform-3693F3?style=flat&logo=iCloud&logoColor=3693F3"/> <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=RabbitMQ&logoColor=FF6600"/> <img src="https://img.shields.io/badge/MSA-FF0000?style=flat&logo=GoogleTagManager&logoColor=FF0000"/> <img src="https://img.shields.io/badge/GoLand-000000?style=flat&logo=GoLand&logoColor=000000"/>
-
-
-
-
-
-
-
-
-
-
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![GoLand](https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&logoColor=white)
 
 
