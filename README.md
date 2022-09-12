@@ -3,7 +3,6 @@
 ## **_Github project make all repository private yet_**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=risiscafford&show_icons=true&theme=radical&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=risiscafford&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- 
 * <img src="https://img.shields.io/badge/--000000?style=for-the-badge&logo=Nutanix&logoColor=white"/> ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
@@ -28,10 +27,10 @@
 ---------------------------------------
 
 * _The project will be completed soon_
-  + ###### <img width="5%" src="https://user-images.githubusercontent.com/39476906/189727117-ef70ffd9-6372-4db9-b430-c2fceae7b457.svg"/> <img width="5%" src="https://user-images.githubusercontent.com/39476906/189727433-0a869e42-c3b6-4107-ac00-69969bc92e0c.svg"/>    
-  + ###### <img width="5%" src="https://user-images.githubusercontent.com/39476906/189727631-df55f138-754a-4a3b-a6eb-2d58c08dac2e.svg"/> <img width="5%" src="https://user-images.githubusercontent.com/39476906/189727636-94ec3c12-9e5d-42e3-befd-8d45de50cc3c.svg"/>    
-  + ###### <img width="5%" src="https://user-images.githubusercontent.com/39476906/189727872-e05c043e-5d50-468a-8d6e-eea23136a241.svg"/> <img width="5%" src="https://user-images.githubusercontent.com/39476906/189727873-fac63659-dcb7-4402-a1f4-e1975a60327d.svg"/> <img width="5%" src="https://user-images.githubusercontent.com/39476906/189727636-94ec3c12-9e5d-42e3-befd-8d45de50cc3c.svg"/>
-  + ###### <img width="5%" src="https://user-images.githubusercontent.com/39476906/189728192-a7c49ff6-2fa3-472e-8917-511885d8da83.svg"/>
+  + ###### <img width="3%" src="https://user-images.githubusercontent.com/39476906/189727117-ef70ffd9-6372-4db9-b430-c2fceae7b457.svg"/> <img width="3%" src="https://user-images.githubusercontent.com/39476906/189727433-0a869e42-c3b6-4107-ac00-69969bc92e0c.svg"/>    
+  + ###### <img width="3%" src="https://user-images.githubusercontent.com/39476906/189727631-df55f138-754a-4a3b-a6eb-2d58c08dac2e.svg"/> <img width="3%" src="https://user-images.githubusercontent.com/39476906/189727636-94ec3c12-9e5d-42e3-befd-8d45de50cc3c.svg"/>    
+  + ###### <img width="3%" src="https://user-images.githubusercontent.com/39476906/189727872-e05c043e-5d50-468a-8d6e-eea23136a241.svg"/> <img width="3%" src="https://user-images.githubusercontent.com/39476906/189727873-fac63659-dcb7-4402-a1f4-e1975a60327d.svg"/> <img width="3%" src="https://user-images.githubusercontent.com/39476906/189727636-94ec3c12-9e5d-42e3-befd-8d45de50cc3c.svg"/>
+  + ###### <img width="3%" src="https://user-images.githubusercontent.com/39476906/189728192-a7c49ff6-2fa3-472e-8917-511885d8da83.svg"/>
   
 ---------------------------------------
 
