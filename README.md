@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=0:8b0000,100:a82da8&height=100&section=header&text=admin@risiscafford.co.kr&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=soft&color=0:708090,100:b0c4de&height=100&section=header&text=admin@risiscafford.co.kr&fontSize=40)
 
 ## **_Github project make all repository private yet_**
 
