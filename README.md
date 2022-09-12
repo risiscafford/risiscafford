@@ -25,11 +25,35 @@
 * <img src="https://img.shields.io/badge/--000000?style=for-the-badge&logo=Unraid&logoColor=white"/> ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
+---------------------------------------
+
+* _Let's look on the bright side_
+
+  + ###### 범용적이고 즉시 활용 가능한 Reference
+  + ###### Legacy프로젝트 포함
+  + ###### 여러가지 형태 및 언어로 진행
+  
+* _NuStar Project_
+  
+  + ###### Modern Microservices Architecture
+    - ###### GoLang을 활용한 마이크로서비스 구축(REST API)
+    - ###### GoLang을 활용한 마이크로서비스 보안
+    - ###### ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?logo=rabbitmq&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?logo=apachekafka) 메시지 큐를 사용 비동기 마이크로서비스 구현 및 이벤트 콜라보레이션과 이벤트 소싱 아키텍처 패턴    
+    - ###### 프론트는 리액트로 구축
+    - ###### 컨테이너 애플리케이션 배포는 이식&재현이 가능한 방식 Docker를 활용 쿠버네티스 오케스트레이션 엔진 사용
+    - ###### AWS SDK / EC2 AWS의 서버 인스턴스 구성 및 AWS API 활용 AWS와 상호연동할 수 있는 Go Application 구현
+    - ###### S3, SQS, API Gateway, DynamoDB 이론설명
+    - ###### ![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?logo=travis&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?logo=gitlab&logoColor=white) CD(Continuous Delivery) 도구를 사용해 파이프라인 구현 후 배포 결과물로 Docker Image 사용 후 쿠버네티스 클러스터로 배포 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?logo=rabbitmq&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?logo=apachekafka)와 결합한다.
+
+    
+    
