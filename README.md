@@ -40,7 +40,7 @@
 * _Reference Project_
 
   + ###### _Front end - VueJs / Back end - NodeJs_
-  + ###### _Front end - React,TypeScript / Back end - SpringBoot Project_
+  + ###### _Front end - React TypeScript / Back end - SpringBoot Project_
   + ###### _Front end - Thymeleaf / Back end - SpringBoot Project_
   + ###### _Spring Legacy Project_
   
