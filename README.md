@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=0:8b0000,100:a82da8&height=100&section=header&text=admin@risiscafford.co.kr&fontSize=40)
 
-## **_Github make all repository private_**
+## **_Github project make all repository private yet_**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=risiscafford&show_icons=true&theme=radical&count_private=true)
 
