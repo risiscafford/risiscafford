@@ -54,6 +54,8 @@
     - ###### AWS SDK / EC2 AWS의 서버 인스턴스 구성 및 AWS API 활용 AWS와 상호연동할 수 있는 Go Application 구현
     - ###### S3, SQS, API Gateway, DynamoDB 이론설명
     - ###### ![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?logo=travis&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?logo=gitlab&logoColor=white) CD(Continuous Delivery) 도구를 사용해 파이프라인 구현 후 배포 결과물로 Docker Image 사용 후 쿠버네티스 클러스터로 배포 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?logo=rabbitmq&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?logo=apachekafka)와 결합한다.
+    - ###### Microservices Architecture Microservice architecture is monitored using a ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=Prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?logo=grafana&logoColor=white)
+
 
     
     
