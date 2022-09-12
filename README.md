@@ -40,13 +40,16 @@
 * _Reference Project_
 
   + ###### _Front end - VueJs / Back end - NodeJs_
-  + ###### _Front end - React TypeScript / Back end - SpringBoot Project_
   + ###### _Front end - Thymeleaf / Back end - SpringBoot Project_
+  + ###### _Front end - React TypeScript / Back end - SpringBoot Project_
   + ###### _Spring Legacy Project_
   
+
 * _NuStar project in progress (Saas Application)_
   
-  + ###### _Modern Microservices Architecture_
+  <img width="30%" src="https://user-images.githubusercontent.com/39476906/189708655-d8ed1a66-8da7-4d99-9d63-64ca4e93adc2.jpg"/>  
+  
+  + ###### _Modern Microservices Architecture_ 
     - ###### _GoLang을 활용한 마이크로서비스 구축(REST API) 및 보안_    
     - ###### _![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?logo=rabbitmq&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?logo=apachekafka) 메시지 큐를 사용 비동기 마이크로서비스 구현 및 이벤트 콜라보레이션과 이벤트 소싱 아키텍처 패턴_
     - ###### _프론트는 리액트로 구축_
