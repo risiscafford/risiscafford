@@ -37,11 +37,12 @@
 
 ---------------------------------------
 
-* _Let's look on the bright side_
+* _Reference Project_
 
-  + ###### 범용적이고 즉시 활용 가능한 Reference
-  + ###### Legacy프로젝트 포함
-  + ###### 여러가지 형태 및 언어로 진행
+  + ###### Front end - VueJs / Back end - NodeJs
+  + ###### Front end - React,TypeScript / Back end - SpringBoot Project
+  + ###### Front end - Thymeleaf / Back end - SpringBoot Project
+  + ###### Spring Legacy Project
   
 * _NuStar Project(Saas Application)_
   
