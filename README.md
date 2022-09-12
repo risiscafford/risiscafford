@@ -44,7 +44,7 @@
   + ###### Front end - Thymeleaf / Back end - SpringBoot Project
   + ###### Spring Legacy Project
   
-* _NuStar roject(Saas Application) in progress_
+* _NuStar project(Saas Application) in progress_
   
   + ###### Modern Microservices Architecture
     - ###### GoLang을 활용한 마이크로서비스 구축(REST API)
