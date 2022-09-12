@@ -39,28 +39,28 @@
 
 * _Reference Project_
 
-  + ###### Front end - VueJs / Back end - NodeJs
-  + ###### Front end - React,TypeScript / Back end - SpringBoot Project
-  + ###### Front end - Thymeleaf / Back end - SpringBoot Project
-  + ###### Spring Legacy Project
+  + ###### _Front end - VueJs / Back end - NodeJs_
+  + ###### _Front end - React,TypeScript / Back end - SpringBoot Project_
+  + ###### _Front end - Thymeleaf / Back end - SpringBoot Project_
+  + ###### _Spring Legacy Project_
   
 * _NuStar project in progress (Saas Application)_
   
-  + ###### Modern Microservices Architecture
-    - ###### GoLang을 활용한 마이크로서비스 구축(REST API)
-    - ###### GoLang을 활용한 마이크로서비스 보안
-    - ###### ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?logo=rabbitmq&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?logo=apachekafka) 메시지 큐를 사용 비동기 마이크로서비스 구현 및 이벤트 콜라보레이션과 이벤트 소싱 아키텍처 패턴    
-    - ###### 프론트는 리액트로 구축
-    - ###### 컨테이너 애플리케이션 배포는 이식&재현이 가능한 방식 Docker를 활용 쿠버네티스 오케스트레이션 엔진 사용
-    - ###### AWS SDK / EC2 AWS의 서버 인스턴스 구성 및 AWS API 활용 AWS와 상호연동할 수 있는 Go Application 구현
-    - ###### S3, SQS, API Gateway, ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white) 활용
-    - ###### ![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?logo=travis&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?logo=gitlab&logoColor=white) CD(Continuous Delivery) 도구를 사용해 파이프라인 구현 후 배포 결과물로 Docker Image 사용 후 쿠버네티스 클러스터로 배포 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?logo=rabbitmq&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?logo=apachekafka)와 결합한다.
-    - ###### Microservices Architecture is monitored using a ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=Prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?logo=grafana&logoColor=white)
+  + ###### _Modern Microservices Architecture_
+    - ###### _GoLang을 활용한 마이크로서비스 구축(REST API)_
+    - ###### _GoLang을 활용한 마이크로서비스 보안_
+    - ###### _![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?logo=rabbitmq&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?logo=apachekafka) 메시지 큐를 사용 비동기 마이크로서비스 구현 및 이벤트 콜라보레이션과 이벤트 소싱 아키텍처 패턴_
+    - ###### _프론트는 리액트로 구축_
+    - ###### _컨테이너 애플리케이션 배포는 이식&재현이 가능한 방식 Docker를 활용 쿠버네티스 오케스트레이션 엔진 사용_
+    - ###### _AWS SDK / EC2 AWS의 서버 인스턴스 구성 및 AWS API 활용 AWS와 상호연동할 수 있는 Go Application 구현_
+    - ###### _S3, SQS, API Gateway, ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white) 활용_
+    - ###### _![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?logo=travis&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?logo=gitlab&logoColor=white) CD(Continuous Delivery) 도구를 사용해 파이프라인 구현 후 배포 결과물로 Docker Image 사용 후 쿠버네티스 클러스터로 배포 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?logo=rabbitmq&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?logo=apachekafka)와 결합_
+    - ###### _Microservices Architecture is monitored using a ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=Prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?logo=grafana&logoColor=white)_
   
-  + ###### 설계시 고려해야 할 점
-    - ###### vertical scaling(scale out) 
-    - ###### Statelessness(비상태 기반)
-    - ###### scale out을 위한 쉬운 배포 및 회복성
+  + ###### _설계시 고려해야 할 점_
+    - ###### _vertical scaling(scale out)_
+    - ###### _Statelessness(비상태 기반)_
+    - ###### _scale out을 위한 쉬운 배포 및 회복성_
     
 
     
