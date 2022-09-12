@@ -3,6 +3,7 @@
 ## **_Github project make all repository private yet_**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=risiscafford&show_icons=true&theme=radical&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=risiscafford&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- 
 * <img src="https://img.shields.io/badge/--000000?style=for-the-badge&logo=Nutanix&logoColor=white"/> ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
