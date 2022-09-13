@@ -34,8 +34,9 @@
 
 * _NuStar project in progress (Saas Application)_
   
-  
+  <!-- 
   <img width="30%" src="https://user-images.githubusercontent.com/39476906/189708655-d8ed1a66-8da7-4d99-9d63-64ca4e93adc2.jpg"/>  
+  -->
   
   + ###### _Modern Microservices Architecture_ 
     - ###### _Go언어를 활용한 마이크로서비스 구축(REST API) 및 보안_    
