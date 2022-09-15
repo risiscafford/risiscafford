@@ -32,8 +32,7 @@
   
 ---------------------------------------
 
-* _NuStar project in progress (Saas Application)_
-* _Event Management System_
+* _NuStar project in progress {The Event Management System(EMS) of saas application structure}_
   
   <!-- 
   <img width="30%" src="https://user-images.githubusercontent.com/39476906/189708655-d8ed1a66-8da7-4d99-9d63-64ca4e93adc2.jpg"/>  
