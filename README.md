@@ -48,10 +48,16 @@
     - ###### _![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?logo=travis&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?logo=gitlab&logoColor=white) CD(Continuous Delivery) 도구를 사용해 파이프라인 구현 후 배포 결과물로 Docker Image 사용 후 쿠버네티스 클러스터로 배포 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?logo=rabbitmq&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?logo=apachekafka)와 결합_
     - ###### _Microservices Architecture is monitored using a ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=Prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?logo=grafana&logoColor=white)_
   
-  + ###### _Critical Issue_
+  + ###### _Considerations_
     - ###### _vertical scaling(scale out)_
     - ###### _Statelessness(비상태 기반)_
-    - ###### _scale out을 위한 쉬운 배포 및 회복성_  
+    - ###### _scale out을 위한 쉬운 배포 및 회복성_     
+    
+  + ###### _Critical Issue_
+    - ###### _의지박약_  
+    - ###### _회사 업무 제외 Project를 4개 동시 진행 중_  
+  
+  
    
 * _Requirement_
   
