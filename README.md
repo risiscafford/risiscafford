@@ -54,10 +54,8 @@
     - ###### _scale out을 위한 쉬운 배포 및 회복성_     
     
   + ###### _Critical Issue_
-    - ###### _의지박약_  
-    - ###### _회사 업무 제외 Project를 4개 동시 진행 중_  
-  
-  
+    - ###### _Patholesia_  
+    - ###### _4 projects in progress except for the company's_   
    
 * _Requirement_
   
