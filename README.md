@@ -1,6 +1,6 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=soft&color=0:2f4f4f,100:000000&height=100&section=header&text=admin@risiscafford.co.kr&fontSize=40) -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=risiscafford&show_icons=true&theme=radical&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=risiscafford&show_icons=true&count_private=true)
 
 <!-- 
 * <img src="https://img.shields.io/badge/--000000?style=for-the-badge&logo=Nutanix&logoColor=white"/> ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
