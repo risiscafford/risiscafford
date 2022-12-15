@@ -23,7 +23,7 @@
 -->
 
 ---------------------------------------
-
+<!-- 
 * _Projects (Github project make all repository private yet)_
   + ###### <img width="3%" src="https://user-images.githubusercontent.com/39476906/189727117-ef70ffd9-6372-4db9-b430-c2fceae7b457.svg"/> <img width="3%" src="https://user-images.githubusercontent.com/39476906/189727433-0a869e42-c3b6-4107-ac00-69969bc92e0c.svg"/>    
   + ###### <img width="3%" src="https://user-images.githubusercontent.com/39476906/189727631-df55f138-754a-4a3b-a6eb-2d58c08dac2e.svg"/> <img width="3%" src="https://user-images.githubusercontent.com/39476906/189727636-94ec3c12-9e5d-42e3-befd-8d45de50cc3c.svg"/>    
@@ -31,7 +31,7 @@
   + ###### <img width="3%" src="https://user-images.githubusercontent.com/39476906/189728192-a7c49ff6-2fa3-472e-8917-511885d8da83.svg"/>
   
 ---------------------------------------
-
+-->
 * _NuStar project in progress {The Event Management System(EMS) of saas application structure}_
   
   <!-- 
